@@ -1,0 +1,20 @@
+{
+  "name": "easley",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -w epiphany.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^3.15.0",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {
+    "tap": "^15.0.10"
+  }
+}
